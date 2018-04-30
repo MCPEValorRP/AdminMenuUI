@@ -1,3 +1,4 @@
-<?pop
+<?php
 
 namespace AdminMenuUI\Admin;
+
